@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+
+}
+
+h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: whitesmoke;
+    text-align: center;
+}
+
+p {
+    color: whitesmoke;
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.motivational {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    font-family: 'Libre Baskerville', serif;
+
+
+}
+
+.image {
+    height: 300px;
+    width: 300px;
+    border: 3px solid whitesmoke;
+
+}
